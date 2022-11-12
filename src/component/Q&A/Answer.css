@@ -1,0 +1,33 @@
+.ques h1 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(4, 54, 78);
+  padding: 10px;
+  margin-top: 70px;
+  font-size: 40x;
+  box-shadow: 10px 11px 12px rgb(212, 146, 146);
+}
+.ques {
+  background-image: linear-gradient(to top, #5e5763 0%, #f6f3ff 100%);
+}
+.ques1 {
+  text-align: center;
+  padding: 10px;
+  width: 80%;
+  margin: auto;
+  margin-top: 10px;
+}
+.ques2 {
+  text-align: center;
+  padding: 10px;
+  width: 80%;
+  margin: auto;
+  margin-top: 10px;
+}
+.ques3 {
+  text-align: center;
+  padding: 30px;
+  width: 80%;
+  margin: auto;
+  margin-top: 10px;
+  /* margin-bottom: 50px; */
+}
